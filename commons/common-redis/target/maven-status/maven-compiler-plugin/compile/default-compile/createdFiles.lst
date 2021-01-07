@@ -1,0 +1,3 @@
+com\lsk\netdisk\common\redis\RedisAutoConfigure.class
+com\lsk\netdisk\common\redis\properties\RedisProperties.class
+com\lsk\netdisk\common\redis\core\RedisComponent.class

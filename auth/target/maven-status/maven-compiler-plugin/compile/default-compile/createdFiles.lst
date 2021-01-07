@@ -1,0 +1,12 @@
+com\lsk\netdisk\auth\authz\Authz.class
+com\lsk\netdisk\auth\helpers\CloudHelper.class
+com\lsk\netdisk\auth\util\ArrayUtil.class
+com\lsk\netdisk\auth\mappers\UserMapper.class
+com\lsk\netdisk\auth\model\User.class
+com\lsk\netdisk\auth\mappers\UrlPermissionMapper.class
+com\lsk\netdisk\auth\controller\Controller.class
+com\lsk\netdisk\auth\authc\State.class
+com\lsk\netdisk\auth\authc\Token.class
+com\lsk\netdisk\auth\AuthApplication.class
+com\lsk\netdisk\auth\configures\Configuration.class
+com\lsk\netdisk\auth\model\UrlPermission.class

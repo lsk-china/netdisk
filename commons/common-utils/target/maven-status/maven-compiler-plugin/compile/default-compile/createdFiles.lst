@@ -1,0 +1,5 @@
+com\lsk\netdisk\common\utils\WebUtils.class
+com\lsk\netdisk\common\utils\UtilsAutoConfiguration.class
+com\lsk\netdisk\common\utils\StringUtils.class
+com\lsk\netdisk\common\utils\ArrayUtils.class
+com\lsk\netdisk\common\utils\SpringUtils.class

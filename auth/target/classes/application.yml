@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: auth
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+  datasource:
+    username: root
+    password: lsk123456
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/netdisk_auth
+  mail:
+    host: localhost
+    username: user@lsk.com
+    password: lsk123456
+lsk:
+    redis:
+      host: localhost
+      port: 6379
+      password: lsk123456
